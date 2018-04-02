@@ -1,0 +1,16 @@
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\obj\Debug\vAutoApiTest.csprojResolveAssemblyReference.cache
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\obj\Debug\vAutoApiTest.csproj.CoreCompileInputs.cache
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\bin\Debug\vAutoApiTest.exe.config
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\bin\Debug\vAutoApiTest.exe
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\bin\Debug\vAutoApiTest.pdb
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\bin\Debug\IO.Swagger.dll
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\bin\Debug\JsonSubTypes.dll
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\bin\Debug\RestSharp.dll
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\bin\Debug\IO.Swagger.pdb
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\bin\Debug\IO.Swagger.dll.config
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\bin\Debug\RestSharp.xml
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\obj\Debug\vAutoApiTest.csproj.CopyComplete
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\obj\Debug\vAutoApiTest.exe
+C:\Users\jfosse\Documents\API Dev\vAuto\vAutoApiTest\obj\Debug\vAutoApiTest.pdb
