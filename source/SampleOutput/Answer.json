@@ -1,0 +1,68 @@
+{
+	"dealers": [{
+		"dealerId": 1357209044,
+		"name": "Car Sense",
+		"vehicles": [{
+			"vehicleId": 295238675,
+			"year": 2004,
+			"make": "FORD",
+			"model": "F150"
+		},
+		{
+			"vehicleId": 376391787,
+			"year": 2005,
+			"make": "CHEVY",
+			"model": "Cavalier"
+		},
+		{
+			"vehicleId": 916129850,
+			"year": 2006,
+			"make": "KIA",
+			"model": "Ultima"
+		}]
+	},
+	{
+		"dealerId": 12864653,
+		"name": "Auto Mile",
+		"vehicles": [{
+			"vehicleId": 179767521,
+			"year": 2007,
+			"make": "DODGE",
+			"model": "Ram"
+		},
+		{
+			"vehicleId": 1092503762,
+			"year": 2008,
+			"make": "FORD",
+			"model": "Taurus"
+		},
+		{
+			"vehicleId": 458788499,
+			"year": 2009,
+			"make": "CHEVY",
+			"model": "Malibu"
+		}]
+	},
+	{
+		"dealerId": 558197651,
+		"name": "Norco Auto",
+		"vehicles": [{
+			"vehicleId": 1872632129,
+			"year": 2010,
+			"make": "KIA",
+			"model": "Something"
+		},
+		{
+			"vehicleId": 131572026,
+			"year": 2011,
+			"make": "DODGE",
+			"model": "Town and Country"
+		},
+		{
+			"vehicleId": 1313797140,
+			"year": 2012,
+			"make": "FORD",
+			"model": "Fusion"
+		}]
+	}]
+}
